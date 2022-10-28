@@ -1,0 +1,2 @@
+# ConsoleBasicExamples
+ Basit console örnekleri

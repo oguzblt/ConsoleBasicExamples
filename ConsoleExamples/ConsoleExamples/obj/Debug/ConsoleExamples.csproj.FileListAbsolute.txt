@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\bin\Debug\ConsoleExamples.exe.config
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\bin\Debug\ConsoleExamples.exe
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\bin\Debug\ConsoleExamples.pdb
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\obj\Debug\ConsoleExamples.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\obj\Debug\ConsoleExamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\obj\Debug\ConsoleExamples.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\obj\Debug\ConsoleExamples.exe
+C:\Users\pc\source\repos\ConsoleExamples\ConsoleExamples\obj\Debug\ConsoleExamples.pdb
